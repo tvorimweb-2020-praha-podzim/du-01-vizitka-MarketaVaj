@@ -13,9 +13,9 @@ body{
   }
   
   .foto
-    {width: 200px;
+    {width: 180px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 5%;
     border: 2px solid #093844;
     float: left;
     margin-right:60px;}
